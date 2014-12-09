@@ -18,3 +18,10 @@ Python--相关的学习资料
 * [dive-into-python](http://www.diveintopython.net/file_handling/os_module.html)
 
 ## [Python cookbook](http://chimera.labs.oreilly.com/books/1230000000393/ch06.html#_discussion_104)
+
+
+
+
+# Porting to python 3 :: The book site:
+
+http://python3porting.com/problems.html
