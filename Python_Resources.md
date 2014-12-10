@@ -21,6 +21,9 @@ Python--相关的学习资料
 
 
 
+## [Practical Business Python](http://pbpython.com/excel-pandas-comp.html)
+
+
 
 # Porting to python 3 :: The book site:
 
